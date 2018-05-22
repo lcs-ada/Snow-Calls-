@@ -93,7 +93,7 @@ for n in 1...expectedLines {
         
         //should we stop?
         if translatedPhoneNumber.count == 12 {
-        break
+            break
         }
     }
 
