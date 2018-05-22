@@ -55,7 +55,6 @@ for n in 1...expectedLines {
         case "A", "B", "C":
             translatedPhoneNumber += "2"
             
-            
         case "D", "E", "F":
             translatedPhoneNumber += "3"
             
